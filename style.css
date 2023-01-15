@@ -1,0 +1,24 @@
+body {
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+div{
+position: relative;
+top: 80px;
+}
+input{
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button{
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
